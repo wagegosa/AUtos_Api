@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "spring.jpa.hibernat.ddl-auot",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernat.ddl-auot'"
+  },
+  {
+    "name": "spring.jpa.datasource",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.datasource'"
+  },
+  {
+    "name": "spring.jpa.hibernat.propeties",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernat.propeties'"
+  },
+  {
+    "name": "spring.jpa.hibernat.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernat.hibernate.dialect'"
+  },
+  {
+    "name": "spring.jpa.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.driver-class-name'"
+  },
+  {
+    "name": "spring.jpa.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.username'"
+  },
+  {
+    "name": "spring.jpa.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.url'"
+  },
+  {
+    "name": "spring.jpa.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.password'"
+  }
+]}
